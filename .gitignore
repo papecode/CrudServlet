@@ -1,0 +1,35 @@
+# Ignore les fichiers binaires générés par l'IDE
+*.class
+
+# Ignore les répertoires de sortie des IDEs
+/target/
+/.idea/
+/.vscode/
+
+# Ignore les fichiers de configuration spécifiques à votre environnement de développement
+*.iml
+*.ipr
+*.iws
+
+# Ignore les fichiers de configuration de Maven
+target/
+!.mvn/wrapper/maven-wrapper.jar
+
+# Ignore les fichiers de configuration de Gradle
+.gradle/
+build/
+
+# Ignore les fichiers de journalisation
+*.log
+
+# Ignore les fichiers de sauvegarde
+*~
+
+# Ignore les fichiers de cache
+.cache/
+
+# Ignore les fichiers de compilation
+*.class
+
+# Ignore les fichiers de dépendances
+lib/
