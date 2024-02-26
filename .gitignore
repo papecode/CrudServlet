@@ -6,10 +6,12 @@
 /.idea/
 /.vscode/
 
+
 # Ignore les fichiers de configuration spécifiques à votre environnement de développement
 *.iml
 *.ipr
 *.iws
+*.classpath
 
 # Ignore les fichiers de configuration de Maven
 target/
